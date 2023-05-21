@@ -18,7 +18,8 @@ Here is a list of the topics to be covered
 
 ### Getting Started
 
-Videos coming soon https://www.youtube.com/@AnilChandraNaiduMatcha . Subscribe to the channel to get latest content
+Videos coming soon https://www.youtube.com/@AnilChandraNaiduMatcha & https://www.youtube.com/@ankursingh9507
+.Subscribe to the channel to get latest content
 
 Follow [Anil Chandra Naidu Matcha](https://twitter.com/matchaman11) & [Ankur Singh](https://twitter.com/ankur_maker) on twitter for updates
 

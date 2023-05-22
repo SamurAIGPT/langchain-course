@@ -28,3 +28,13 @@ Videos coming soon https://www.youtube.com/@AnilChandraNaiduMatcha & https://www
 Follow [Anil Chandra Naidu Matcha](https://twitter.com/matchaman11) & [Ankur Singh](https://twitter.com/ankur_maker) on twitter for updates
 
 Join our discord server for support https://discord.gg/FBpafqbbYF
+
+
+# Prerequisites
+
+This course assumes you have a basic understanding of Python and JavaScript, as LangChain is written in these languages. Familiarity with machine learning concepts and language models is beneficial but not required.
+
+# Contributions
+
+Contributions to this course are welcome! If you have suggestions for improvements, please open an issue or create a pull request.
+

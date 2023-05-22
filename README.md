@@ -5,16 +5,20 @@ Welcome to the LangChain Beginners Course repository! This course is designed to
 I have built 12 AI apps in 12 weeks using Langchain hosted on [SamurAI](thesamur.ai) and have onboarded million visitors a month.
 
 
-### Topics (Will be constantly updated)
+### Topics (May be updated)
 
-### Course Structure
+## Course Structure
+
 This course is divided into four modules, each focusing on a particular aspect of LangChain:
 
-# Introduction to LangChain
-# Langchain Fundamentals
-# Building Applications with LangChain
-# Project and Conclusion
+1. Introduction to LangChain
+2. Langchain Fundamentals
+3. Building Applications with LangChain
+4. Project and Conclusion
+
 Each module contains lessons with theory and practical exercises to help solidify your understanding of LangChain.
+
+
 
 ### Getting Started
 

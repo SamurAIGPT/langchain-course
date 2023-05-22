@@ -10,10 +10,10 @@ I have built 12 AI apps in 12 weeks using Langchain hosted on [SamurAI](thesamur
 ### Course Structure
 This course is divided into four modules, each focusing on a particular aspect of LangChain:
 
-## Introduction to LangChain
-Langchain Fundamentals
-Building Applications with LangChain
-Project and Conclusion
+# Introduction to LangChain
+# Langchain Fundamentals
+# Building Applications with LangChain
+# Project and Conclusion
 Each module contains lessons with theory and practical exercises to help solidify your understanding of LangChain.
 
 ### Getting Started

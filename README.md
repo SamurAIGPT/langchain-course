@@ -1,20 +1,20 @@
-# Langchain Course
+# Langchain Course for Beginners
 
-Learn to build and deploy AI apps. 
+Welcome to the LangChain Beginners Course repository! This course is designed to help you get started with LangChain, a powerful open-source framework for developing applications using large language models (LLMs) like ChatGPT.
 
-The world has changed with the advent of ChatGPT
+I have built 12 AI apps in 12 weeks using Langchain hosted on [SamurAI](thesamur.ai) and have onboarded million visitors a month.
 
-Now learn how you can build apps on top of ChatGPT and use it for your business
-
-I have built 12 AI apps in 12 weeks for [SamurAI](thesamur.ai) and onboarded million users
-
-Now I am sharing the knowledge with everyone
 
 ### Topics (Will be constantly updated)
 
-Here is a list of the topics to be covered
+###Course Structure
+This course is divided into four modules, each focusing on a particular aspect of LangChain:
 
-<img width="917" alt="lcourse" src="https://github.com/SamurAIGPT/langchain-course/assets/4326215/a3c88853-e5b2-4557-b2d1-53c259830087">
+##Introduction to LangChain
+Langchain Fundamentals
+Building Applications with LangChain
+Project and Conclusion
+Each module contains lessons with theory and practical exercises to help solidify your understanding of LangChain.
 
 ### Getting Started
 

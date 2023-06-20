@@ -2,7 +2,7 @@
 
 Welcome to the LangChain Beginners Course repository! This course is designed to help you get started with LangChain, a powerful open-source framework for developing applications using large language models (LLMs) like ChatGPT.
 
-I have built 12 AI apps in 12 weeks using Langchain hosted on [SamurAI](thesamur.ai) and have onboarded million visitors a month.
+I have built 12 AI apps in 12 weeks using Langchain hosted on [SamurAI](https://thesamur.ai) and have onboarded million visitors a month.
 
 
 ### Topics (May be updated)

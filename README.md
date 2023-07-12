@@ -34,6 +34,8 @@ Join our discord server for support https://discord.gg/FBpafqbbYF
 
 This course assumes you have a basic understanding of Python and JavaScript, as LangChain is written in these languages. Familiarity with machine learning concepts and language models is beneficial but not required.
 
+You will also need an OpenAI API Key to run the tutorials. You can obtain one from [here](https://platform.openai.com/account/api-keys) after signing up for an account and clicking on "Create new secret key". Copy the .env.example into a new file called '.env' and add your OpenAI API key after the `=`.
+
 ### Contributions
 
 Contributions to this course are welcome! If you have suggestions for improvements, please open an issue or create a pull request.
